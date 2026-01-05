@@ -22,7 +22,7 @@
 
 ## 🛠️ Stack & outils
 
-- 🔹 PHP 8.3, Symfony 7.x, Laravel 11
+- 🔹 PHP 8.x, Symfony 7.x/8.x, Laravel 11/12
 - 🔸 MySQL / MariaDB, REST APIs, Mercure
 - ⚙️ Docker, Git, CI/CD, Sentry
 - 🧰 Méthodes agiles, GitFlow, PSR-12
@@ -31,16 +31,16 @@
 
 ## 🧩 Derniers Projets
 
-### 🗳️ Élections législatives 2024 – Interface de validation 🔒
-> Développement **express** d’une interface sécurisée en Laravel pour valider les résultats des élections législatives pour un grand groupe média TV.  
-> **Stack** : Laravel, JavaScript, MySQL
-
----
-
 ### 💰 Refonte d’un outil de calculs de rétro-commissions 💼
 > Réécriture complète d’un système interne pour une société de Conseil en Gestion de Patrimoine : meilleure performance, fiabilité et ergonomie.
 > Accompagnement pour la montée en compétence d'un développeur junior sur Symfony
 > **Stack** : Symfony, MySQL, front Twig/JS, Mercure, CircleCI, Sentry, Docker, PHPUnit, Azure, PHPStan
+
+---
+
+### 🗳️ Élections législatives 2024 – Interface de validation 🔒
+> Développement **express** d’une interface sécurisée en Laravel pour valider les résultats des élections législatives pour un grand groupe média TV.  
+> **Stack** : Laravel, JavaScript, MySQL
 
 ---
 
