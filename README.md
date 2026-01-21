@@ -2,9 +2,9 @@
 <h3 align="center">Développeur Web Freelance | Symfony & Laravel Lover | Manager Tech</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.3-blue?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-7.x-black?logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-11-red?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8.5-blue?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-8.x-black?logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-12-red?logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-DB-orange?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-ready-blue?logo=docker&logoColor=white" />
 </p>
